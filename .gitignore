@@ -1,3 +1,5 @@
+.idea/
+.DS_Store
 **/*.csv
 **/*.joblib
 **/*.pkl
@@ -6,4 +8,3 @@
 **/emnist
 **/fmnist
 **/stl10
-.idea
